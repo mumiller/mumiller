@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mumiller
 - 👀 I’m interested in learning more about software development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on small projects
 - 📫 How to reach me: mumiller@student.wethinkcode.co.za
 
